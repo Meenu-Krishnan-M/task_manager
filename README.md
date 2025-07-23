@@ -17,9 +17,11 @@ Create frontend:
  - create vite@latest taskfrontend
  - install fontawesome react-router-dom
  - install react-bootstrap axios
+ - run - npm run dev
 
 create backend:
 -cd server
 -git init -y
 -install dotenv express cors mongoose
 -create .env and .gitignore
+- run using node index.js or nodemon
