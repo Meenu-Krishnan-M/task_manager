@@ -1,0 +1,16 @@
+/* checkbox-completed */
+.custom-checkbox .form-check-input {
+  width: 18px;
+  height: 18px;
+  border: 2px solid #ccc;
+  margin-top: 3px;
+  cursor: pointer;
+}
+
+.custom-checkbox.checkbox-success .form-check-input {
+  background-color: #198754 ;
+  border-color: #198754 ;
+}
+body{
+    background: linear-gradient(to right, rgb(212, 164, 148), rgb(203, 209, 202))
+}
